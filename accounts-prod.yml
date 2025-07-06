@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs - configserver (refreshed)"
+  message: "Welcome to EazyBank accounts related prod APIs - configserver (refreshed cloud bus)"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}6837493336024f791c12a1061e40e3da2cd4953a29841fcc3f168bf1b80224e8469149b553978617cf27929ad33b0e35"
